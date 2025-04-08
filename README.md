@@ -1,13 +1,9 @@
 # Indian-Style-Bakery-Full-Stack-Responsive-Web-Application
 Welcome to Shri's Bakery, a fully responsive, aesthetically rich bakery website designed for both desktop and mobile platforms. This project demonstrates my skills in Full-Stack Web Development, combining elegant frontend design with backend functionality using Node.js and Express.js.
 <img width="1707" alt="Screenshot 2025-04-08 at 5 17 49 PM" src="https://github.com/user-attachments/assets/5bcb3eb5-001a-452a-9ba0-1c73bc9d939a" />
-🔧 Tech Stack
-Layer	Technologies Used
-Frontend:	HTML5, CSS3, JavaScript, Bootstrap
-Backend:	Node.js, Express.js
-Server:	Custom server.js for handling backend routing
-UI/UX:	Fully responsive layout with custom theme and icons
-Versioning:	Git, GitHub
+
+<img width="744" alt="Screenshot 2025-04-08 at 5 27 49 PM" src="https://github.com/user-attachments/assets/0182c04a-c5cc-44ab-82c0-acf5b9d95495" />
+
 ✨ Key Features
 ✅ Beautiful Home Page with desi-themed design
 
